@@ -1,0 +1,105 @@
+Added to array
+About to start the method
+Printing using print method
+Policy Holder is: James Car type is: Car Type: SUV Model: Tesla Manufacturing Year: 2020 Car Price: 69000.0 Car price is: 69000.0 Driver age is: 19 Level of policy is: 1
+
+Policy Holder is: Jack Car type is: Car Type: HATCH Model: Toyota Manufacturing Year: 2018 Car Price: 20000.0 Car price is: 20000.0 Comment on this policy is: This is the second policy Number of claims: 3
+
+Policy Holder is: Jill Car type is: Car Type: LUX Model: BMW Manufacturing Year: 2023 Car Price: 110000.0 Car price is: 110000.0 Driver age is: 40 Level of policy is: 5
+
+Policy Holder is: John Car type is: Car Type: SED Model: Kia Manufacturing Year: 2021 Car Price: 30000.0 Car price is: 30000.0 Comment on this policy is: Has some worth Number of claims: 1
+
+Policy Holder is: Matt Car type is: Car Type: SED Model: Tesla Manufacturing Year: 2021 Car Price: 59000.0 Car price is: 59000.0 Comment on this policy is: Tests the filter array Number of claims: 0
+
+And have run the print method, if not working, L
+The total value of premiums owed is: 2430.0
+Running price rise
+Printing using print method
+Policy Holder is: James Car type is: Car Type: SUV Model: Tesla Manufacturing Year: 2020 Car Price: 75900.0 Car price is: 75900.0 Driver age is: 19 Level of policy is: 1
+
+Policy Holder is: Jack Car type is: Car Type: HATCH Model: Toyota Manufacturing Year: 2018 Car Price: 20000.0 Car price is: 20000.0 Comment on this policy is: This is the second policy Number of claims: 3
+
+Policy Holder is: Jill Car type is: Car Type: LUX Model: BMW Manufacturing Year: 2023 Car Price: 110000.0 Car price is: 110000.0 Driver age is: 40 Level of policy is: 5
+
+Policy Holder is: John Car type is: Car Type: SED Model: Kia Manufacturing Year: 2021 Car Price: 30000.0 Car price is: 30000.0 Comment on this policy is: Has some worth Number of claims: 1
+
+Policy Holder is: Matt Car type is: Car Type: SED Model: Tesla Manufacturing Year: 2021 Car Price: 59000.0 Car price is: 59000.0 Comment on this policy is: Tests the filter array Number of claims: 0
+
+Should have seen a price rise on first policy
+Starting priceRiseAll
+Printing using print method
+Policy Holder is: James Car type is: Car Type: SUV Model: Tesla Manufacturing Year: 2020 Car Price: 83490.0 Car price is: 83490.0 Driver age is: 19 Level of policy is: 1
+
+Policy Holder is: Jack Car type is: Car Type: HATCH Model: Toyota Manufacturing Year: 2018 Car Price: 22000.0 Car price is: 22000.0 Comment on this policy is: This is the second policy Number of claims: 3
+
+Policy Holder is: Jill Car type is: Car Type: LUX Model: BMW Manufacturing Year: 2023 Car Price: 121000.0 Car price is: 121000.0 Driver age is: 40 Level of policy is: 5
+
+Policy Holder is: John Car type is: Car Type: SED Model: Kia Manufacturing Year: 2021 Car Price: 33000.0 Car price is: 33000.0 Comment on this policy is: Has some worth Number of claims: 1
+
+Policy Holder is: Matt Car type is: Car Type: SED Model: Tesla Manufacturing Year: 2021 Car Price: 64900.0 Car price is: 64900.0 Comment on this policy is: Tests the filter array Number of claims: 0
+
+Should have seen a price rise across all cars
+Finding car model: [Policy Holder Name: James ID number: 1 Car Car Type: SUV Model: Tesla Manufacturing Year: 2020 Car Price: 83490.0 Number of Claims: 0 Expiry Date: nullPolicy Holder is: James Car type is: Car Type: SUV Model: Tesla Manufacturing Year: 2020 Car Price: 83490.0 Car price is: 83490.0 Driver age is: 19 Level of policy is: 1, Policy Holder Name: Matt ID number: 4 Car Car Type: SED Model: Tesla Manufacturing Year: 2021 Car Price: 64900.0 Number of Claims: 0 Expiry Date: nullPolicy Holder is: Matt Car type is: Car Type: SED Model: Tesla Manufacturing Year: 2021 Car Price: 64900.0 Car price is: 64900.0 Comment on this policy is: Tests the filter array Number of claims: 0]
+Should have returned policy
+This is before add to user addPolicy()
+Added policy to user
+
+Added policy to user
+
+Added policy to user
+
+This is after that
+Find a users policy by the policy ID
+Policy Holder is: James Car type is: Car Type: SUV Model: Tesla Manufacturing Year: 2020 Car Price: 83490.0 Car price is: 83490.0 Driver age is: 19 Level of policy is: 1
+Finding a policy by ID and chnaging infromation about a policy
+Policy Holder is: Robert Car type is: Car Type: SUV Model: Toyota Camry Manufacturing Year: 2018 Car Price: 91839.0 Car price is: 91839.0 Driver age is: 19 Level of policy is: 1
+Call user1.print()
+Name: James ID of user: 1
+Users address: Street Number: 1 Street Name: First Street Suburb: Cool suburb City: Cooler city
+Printing using print method
+Policy Holder is: Robert Car type is: Car Type: SUV Model: Toyota Camry Manufacturing Year: 2018 Car Price: 91839.0 Car price is: 91839.0 Driver age is: 19 Level of policy is: 1
+
+Policy Holder is: Jack Car type is: Car Type: HATCH Model: Toyota Manufacturing Year: 2018 Car Price: 22000.0 Car price is: 22000.0 Comment on this policy is: This is the second policy Number of claims: 3
+
+Policy Holder is: Matt Car type is: Car Type: SED Model: Tesla Manufacturing Year: 2021 Car Price: 64900.0 Car price is: 64900.0 Comment on this policy is: Tests the filter array Number of claims: 0
+
+
+Testing print policies in user class, check InsurancePolicy when an issue arrises
+Print method with preium calc and output
+Policy Holder is: Robert Car type is: Car Type: SUV Model: Toyota Camry Manufacturing Year: 2018 Car Price: 91839.0 Car price is: 91839.0 Driver age is: 19 Level of policy is: 1
+Premium for this policy is: 2886.78
+
+Policy Holder is: Jack Car type is: Car Type: HATCH Model: Toyota Manufacturing Year: 2018 Car Price: 22000.0 Car price is: 22000.0 Comment on this policy is: This is the second policy Number of claims: 3
+Premium for this policy is: 1540.0
+
+Policy Holder is: Matt Car type is: Car Type: SED Model: Tesla Manufacturing Year: 2021 Car Price: 64900.0 Car price is: 64900.0 Comment on this policy is: Tests the filter array Number of claims: 0
+Premium for this policy is: 1798.0
+
+Finding total premiums for a user
+Total premium for this user is: $2886.7799999999997
+Price rise all policies a user holds
+Starting price rise on all users
+Print method with preium calc and output
+Policy Holder is: Robert Car type is: Car Type: SUV Model: Toyota Camry Manufacturing Year: 2018 Car Price: 101022.9 Car price is: 101022.9 Driver age is: 19 Level of policy is: 1
+Premium for this policy is: 3070.46
+
+Policy Holder is: Jack Car type is: Car Type: HATCH Model: Toyota Manufacturing Year: 2018 Car Price: 24200.0 Car price is: 24200.0 Comment on this policy is: This is the second policy Number of claims: 3
+Premium for this policy is: 1584.0
+
+Policy Holder is: Matt Car type is: Car Type: SED Model: Tesla Manufacturing Year: 2021 Car Price: 71390.0 Car price is: 71390.0 Comment on this policy is: Tests the filter array Number of claims: 0
+Premium for this policy is: 1927.8
+
+Total premium for this user is: $3070.4579999999996
+Done price rise all
+Filtering a users policies by car model
+Filter by car model Tesla: [Policy Holder Name: Matt ID number: 4 Car Car Type: SED Model: Tesla Manufacturing Year: 2021 Car Price: 71390.0 Number of Claims: 0 Expiry Date: nullPolicy Holder is: Matt Car type is: Car Type: SED Model: Tesla Manufacturing Year: 2021 Car Price: 71390.0 Car price is: 71390.0 Comment on this policy is: Tests the filter array Number of claims: 0]
+
+Changing address stuff
+City for user1 is: Wollongong
+
+Enter the new address of the user 
+Street num is: 59 Street Name is: New Street Name Suburb name is: New Suburb Name City name is: New City Name
+Filter by car model
+Enter a car model to filter for (Tesla or Toyota)
+Printing using print method
+Policy Holder is: Matt Car type is: Car Type: SED Model: Tesla Manufacturing Year: 2021 Car Price: 71390.0 Car price is: 71390.0 Comment on this policy is: Tests the filter array Number of claims: 0

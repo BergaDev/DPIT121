@@ -1,0 +1,101 @@
+Creating first policies
+Login Successful
+
+
+Creating new policies and adding to user
+Added policy to user
+
+
+Added policy to user
+
+Added policy to user
+
+
+Added policy to user
+
+Added policy to user
+
+Added policy to user
+
+Added policy to user
+
+
+Added policy to user
+
+Added policy to user
+
+Added policy to user
+
+
+Adding to user that doesn't exist
+!! User does not exist !!
+
+
+Adding duplicate policy
+!! A policy by this ID already exists !!
+
+
+Testing cloning below
+Policy Holder is: Jill, PolicyID is: 600, Car type is: Car Type: LUX, Model: Polestar, Manufacturing Year: 2023, Car Price: $110000.0, Driver age is: 40, Level of policy is: 5, Expiry Date is: Expiry Year: 2023 Month: 6 Day: 31
+
+Policy Holder is: Jack, PolicyID is: 600, Car type is: Car Type: HATCH, Model: Toyota, Manufacturing Year: 2018, Car Price: $4569.0, Comment on this policy is: This is policy2, Number of claims: 1, Expiry Date: Expiry Year: 2025 Month: 9 Day: 24
+
+Policy Holder is: Sam, PolicyID is: 600, Car type is: Car Type: SED, Model: Polestar, Manufacturing Year: 2021, Car Price: $59000.0, Comment on this policy is: This is just a duplicate thing, Number of claims: 0, Expiry Date: Expiry Year: 2022 Month: 12 Day: 31
+
+Policy Holder is: Another New Policy, PolicyID is: 600, Car type is: Car Type: HATCH, Model: Honda, Manufacturing Year: 2009, Car Price: $7000.0, Driver age is: 19, Level of policy is: 1, Expiry Date is: Expiry Year: 2024 Month: 2 Day: 11
+
+Policy Holder is: James, PolicyID is: 600, Car type is: Car Type: SUV, Model: Tesla, Manufacturing Year: 2020, Car Price: $69000.0, Driver age is: 19, Level of policy is: 1, Expiry Date is: Expiry Year: 2024 Month: 5 Day: 21
+
+And orignal policies
+Policy Holder is: Jill, PolicyID is: 3997695, Car type is: Car Type: LUX, Model: Polestar, Manufacturing Year: 2023, Car Price: $110000.0, Driver age is: 40, Level of policy is: 5, Expiry Date is: Expiry Year: 2023 Month: 6 Day: 31
+Premium for this policy is: $2900.0
+
+Policy Holder is: Jack, PolicyID is: 3581504, Car type is: Car Type: HATCH, Model: Toyota, Manufacturing Year: 2018, Car Price: $4569.0, Comment on this policy is: This is policy2, Number of claims: 1, Expiry Date: Expiry Year: 2025 Month: 9 Day: 24
+Premium for this policy is: $791.38
+
+Policy Holder is: Sam, PolicyID is: 3113825, Car type is: Car Type: SED, Model: Polestar, Manufacturing Year: 2021, Car Price: $59000.0, Comment on this policy is: This is just a duplicate thing, Number of claims: 0, Expiry Date: Expiry Year: 2022 Month: 12 Day: 31
+Premium for this policy is: $1680.0
+
+Policy Holder is: Another New Policy, PolicyID is: 3942514, Car type is: Car Type: HATCH, Model: Honda, Manufacturing Year: 2009, Car Price: $7000.0, Driver age is: 19, Level of policy is: 1, Expiry Date is: Expiry Year: 2024 Month: 2 Day: 11
+Premium for this policy is: $1790.0
+
+Policy Holder is: James, PolicyID is: 3651512, Car type is: Car Type: SUV, Model: Tesla, Manufacturing Year: 2020, Car Price: $69000.0, Driver age is: 19, Level of policy is: 1, Expiry Date is: Expiry Year: 2024 Month: 5 Day: 21
+Premium for this policy is: $2430.0
+
+
+Calc total for user
+2900.0
+
+Sorting users
+
+3
+Ben
+
+Adam
+
+Jack
+
+
+Printing Users
+Name: Ben ID of user: 1
+Users address: Street Number: 1, Street Name: First Street, Suburb: Cool suburb, City: Cooler city
+
+Name: Adam ID of user: 2
+Users address: Street Number: 2, Street Name: Second Street, Suburb: Second Suburb, City: Second City
+
+Name: Jack ID of user: 3
+Users address: Street Number: 3, Street Name: Third Street, Suburb: Third Suburb, City: Third City
+
+[Kia, Toyota, Polestar, Tesla, MG, Cupra, Honda]
+Total Payments per model is :[3240.0, 891.38, 6780.0, 2530.0, 900.0, 2800.0, 1890.0]
+Car Model           Total Premium Payment         Average Premium Payment
+Toyota              891.38                        891.38              
+Polestar            4780.0                        2390.0              
+Tesla               2530.0                        2530.0              
+Honda               1890.0                        1890.0              
+Count per model{Kia=2, Toyota=1, Polestar=3, Tesla=1, MG=1, Cupra=1, Honda=1}
+total premium model{Kia=3240.0, Toyota=891.38, Polestar=6780.0, Tesla=2530.0, MG=900.0, Cupra=2800.0, Honda=1890.0}
+City Name           Total Monthly Payment
+Cooler city         3000.0              
+Second City         1780.0              
+Third City          2800.0      

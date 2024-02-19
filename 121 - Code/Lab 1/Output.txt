@@ -1,0 +1,51 @@
+Added to array
+Printing using print method
+Policy Holder is: James Car type is: SUV Car price is: 69000.0 Driver age is: 19 Level of policy is: 1
+Policy Holder is: Jack Car type is: HATCH Car price is: 20000.0 Comment on this policy is: This is the second policy Number of claims: 3
+Policy Holder is: Jill Car type is: LUX Car price is: 110000.0 Driver age is: 40 Level of policy is: 5
+Policy Holder is: John Car type is: SED Car price is: 30000.0 Comment on this policy is: Has some worth Number of claims: 1
+Printing using toString method
+Policy Holder is: James Car type is: SUV Car price is: 69000.0 Driver age is: 19 Level of policy is: 1
+Policy Holder is: Jack Car type is: HATCH Car price is: 20000.0Policy Holder is: Jack Car type is: HATCH Car price is: 20000.0 Comment on this policy is: This is the second policy Number of claims: 3
+Policy Holder is: Jill Car type is: LUX Car price is: 110000.0 Driver age is: 40 Level of policy is: 5
+Policy Holder is: John Car type is: SED Car price is: 30000.0Policy Holder is: John Car type is: SED Car price is: 30000.0 Comment on this policy is: Has some worth Number of claims: 1
+Doing calcs
+The price of James is 2430.0
+Total Payment is 2430.0
+The price of Jack is 1500.0
+Total Payment is 3930.0
+The price of Jill is 2900.0
+Total Payment is 6830.0
+The price of John is 1300.0
+Total Payment is 8130.0
+Payment calcs done
+matthew@Matthews-MacBook-Air Lab 1 %  cd /Users/matthew/Documents/Summer\ Session/121\ -\ Code
+/Lab\ 1 ; /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home/bin/java --e
+nable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/matthew/Library/Application\ 
+Support/Code/User/workspaceStorage/56acaa84f329087af4329ba4821ccd0b/redhat.java/jdt_ws/Lab\ 1_
+8f413af3/bin Main 
+Added to array
+
+Printing using print method
+Policy Holder is: James Car type is: SUV Car price is: 69000.0 Driver age is: 19 Level of policy is: 1
+Policy Holder is: Jack Car type is: HATCH Car price is: 20000.0 Comment on this policy is: This is the second policy Number of claims: 3
+Policy Holder is: Jill Car type is: LUX Car price is: 110000.0 Driver age is: 40 Level of policy is: 5
+Policy Holder is: John Car type is: SED Car price is: 30000.0 Comment on this policy is: Has some worth Number of claims: 1
+Printing using toString method
+
+Policy Holder is: James Car type is: SUV Car price is: 69000.0 Driver age is: 19 Level of policy is: 1
+Policy Holder is: Jack Car type is: HATCH Car price is: 20000.0Policy Holder is: Jack Car type is: HATCH Car price is: 20000.0 Comment on this policy is: This is the second policy Number of claims: 3
+Policy Holder is: Jill Car type is: LUX Car price is: 110000.0 Driver age is: 40 Level of policy is: 5
+Policy Holder is: John Car type is: SED Car price is: 30000.0Policy Holder is: John Car type is: SED Car price is: 30000.0 Comment on this policy is: Has some worth Number of claims: 1
+
+Doing calcs
+The price of James is 2430.0
+Total Payment is 2430.0
+The price of Jack is 1500.0
+Total Payment is 3930.0
+The price of Jill is 2900.0
+Total Payment is 6830.0
+The price of John is 1300.0
+Total Payment is 8130.0
+
+Payment calcs done

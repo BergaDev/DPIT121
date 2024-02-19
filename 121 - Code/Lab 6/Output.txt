@@ -1,0 +1,342 @@
+1) Admin Login
+2) User Login
+3) Load InsuranceCompany
+4) Log Out
+
+Choose an Option: 1
+Admin Login
+
+Enter Admin UserName: Admin
+
+Enter Admin Password: Admin
+Assignment Program Main Menu
+
+Program Options
+1) Test Code
+2) Create User
+3) Create Third Party Policy
+4) Create Comprehensive Policy
+5) Print User Information
+6) Filter By Car Model
+7) Filter By Expiry Date
+8) Update Address
+9) Swap to user menu
+10) Report Payment per city
+11) Report payments per car model
+12) Remove policy from a user
+13) Change admin password
+14) Remove user
+15) Report payments per city - Hash
+16) Report payments per car model - Hash
+17) Save and load data
+18) Exit Program
+
+Enter an option: 1
+UGHHGHGHHGHG
+Choose 1 for testCase with save or 2 to load a save file
+1
+Creating first policies
+Login Successful
+
+
+Creating new policies and adding to user
+Added policy to user
+
+
+Added policy to user
+
+Added policy to user
+
+
+Added policy to user
+
+Added policy to user
+
+Added policy to user
+
+Added policy to user
+
+
+Added policy to user
+
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+
+Adding to user that doesn't exist
+!! User does not exist !!
+
+
+Adding duplicate policy
+!! A policy by this ID already exists !!
+
+
+
+
+Save insurance Company
+Before save: {1=User@4d76f3f8Name: Ben ID of user: 1, 2=User@4f2410acName: Adam ID of user: 2, 3=User@722c41f4Name: Jack ID of user: 3}
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Size of users keys: 3
+
+Saving users with policies
+
+Saving insurance company
+
+Enter anything to continue....
+
+Assignment Program Main Menu
+
+Program Options
+1) Test Code
+2) Create User
+3) Create Third Party Policy
+4) Create Comprehensive Policy
+5) Print User Information
+6) Filter By Car Model
+7) Filter By Expiry Date
+8) Update Address
+9) Swap to user menu
+10) Report Payment per city
+11) Report payments per car model
+12) Remove policy from a user
+13) Change admin password
+14) Remove user
+15) Report payments per city - Hash
+16) Report payments per car model - Hash
+17) Save and load data
+18) Exit Program
+
+Enter an option: %                                                                                                                               
+matthew@Matthews-MacBook-Air Lab 6 %  cd /Users/matthew/Documents/Summer\ Session/121\ -\ Code/Lab\ 6 ; /usr/bin/env /Library/Java/JavaVirtualMac
+hines/jdk-20.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/matthew/Library/Application\ Support/Code/User/workspa
+ceStorage/0c9ab5a91fb0202e117bf6a7db774db9/redhat.java/jdt_ws/Lab\ 6_8f413af8/bin Main 
+
+1) Admin Login
+2) User Login
+3) Load InsuranceCompany
+4) Log Out
+
+Choose an Option: 1
+Admin Login
+
+Enter Admin UserName: Admin
+
+Enter Admin Password: Admin
+Assignment Program Main Menu
+
+Program Options
+1) Test Code
+2) Create User
+3) Create Third Party Policy
+4) Create Comprehensive Policy
+5) Print User Information
+6) Filter By Car Model
+7) Filter By Expiry Date
+8) Update Address
+9) Swap to user menu
+10) Report Payment per city
+11) Report payments per car model
+12) Remove policy from a user
+13) Change admin password
+14) Remove user
+15) Report payments per city - Hash
+16) Report payments per car model - Hash
+17) Save and load data
+18) Exit Program
+
+Enter an option: 5
+
+Enter anything to continue....
+
+Assignment Program Main Menu
+
+Program Options
+1) Test Code
+2) Create User
+3) Create Third Party Policy
+4) Create Comprehensive Policy
+5) Print User Information
+6) Filter By Car Model
+7) Filter By Expiry Date
+8) Update Address
+9) Swap to user menu
+10) Report Payment per city
+11) Report payments per car model
+12) Remove policy from a user
+13) Change admin password
+14) Remove user
+15) Report payments per city - Hash
+16) Report payments per car model - Hash
+17) Save and load data
+18) Exit Program
+
+Enter an option: 17
+
+1) Binary methods
+2) TextFile methods
+
+Choose an option: 1
+
+1) Save InsuranceCompany as binary
+2) Load InsuranceCompany as binary
+3) Save Policies as binary
+4) Load Policies as binary
+5) Save Users as binary
+6) Load Users as binary - Not working
+
+Choose an option: 2
+
+Enter a file name .ser: InsuranceCompanyBinary.ser
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Reached end of save file
+File has been loaded
+!! A policy by this ID already exists !!
+
+!! A policy by this ID already exists !!
+
+!! A policy by this ID already exists !!
+
+!! A policy by this ID already exists !!
+
+!! A policy by this ID already exists !!
+
+!! A policy by this ID already exists !!
+
+!! A policy by this ID already exists !!
+
+!! A policy by this ID already exists !!
+
+!! A policy by this ID already exists !!
+
+!! A policy by this ID already exists !!
+
+Reached end of save file
+File has been loaded
+
+Enter anything to continue....
+
+Assignment Program Main Menu
+
+Program Options
+1) Test Code
+2) Create User
+3) Create Third Party Policy
+4) Create Comprehensive Policy
+5) Print User Information
+6) Filter By Car Model
+7) Filter By Expiry Date
+8) Update Address
+9) Swap to user menu
+10) Report Payment per city
+11) Report payments per car model
+12) Remove policy from a user
+13) Change admin password
+14) Remove user
+15) Report payments per city - Hash
+16) Report payments per car model - Hash
+17) Save and load data
+18) Exit Program
+
+Enter an option: 5
+Name: Ben ID of user: 1
+Users address: Street Number: 1, Street Name: First Street, Suburb: Cool suburb, City: Cooler city
+
+Name: Adam ID of user: 2
+Users address: Street Number: 2, Street Name: Second Street, Suburb: Second Suburb, City: Second City
+
+Name: Jack ID of user: 3
+Users address: Street Number: 3, Street Name: Third Street, Suburb: Third Suburb, City: Third City
+
+Policy Holder is: Sam, PolicyID is: 3950701, Car type is: Car Type: SED, Model: Polestar, Manufacturing Year: 2021, Car Price: $59000.0, Comment on this policy is: This is just a duplicate thing, Number of claims: 0, Expiry Date: Expiry Year: 2022 Month: 12 Day: 31
+Premium for this policy is: $1780.0
+
+Policy Holder is: James, PolicyID is: 3715692, Car type is: Car Type: SUV, Model: Tesla, Manufacturing Year: 2020, Car Price: $69000.0, Driver age is: 19, Level of policy is: 1, Expiry Date is: Expiry Year: 2024 Month: 5 Day: 21
+Premium for this policy is: $2530.0
+
+Policy Holder is: Jack, PolicyID is: 3598622, Car type is: Car Type: HATCH, Model: Toyota, Manufacturing Year: 2018, Car Price: $4569.0, Comment on this policy is: This is policy2, Number of claims: 1, Expiry Date: Expiry Year: 2025 Month: 9 Day: 24
+Premium for this policy is: $891.38
+
+Policy Holder is: Jill, PolicyID is: 3789793, Car type is: Car Type: LUX, Model: Polestar, Manufacturing Year: 2023, Car Price: $110000.0, Driver age is: 40, Level of policy is: 5, Expiry Date is: Expiry Year: 2023 Month: 6 Day: 31
+Premium for this policy is: $3000.0
+
+Policy Holder is: Another New Policy, PolicyID is: 3630028, Car type is: Car Type: HATCH, Model: Honda, Manufacturing Year: 2009, Car Price: $7000.0, Driver age is: 19, Level of policy is: 1, Expiry Date is: Expiry Year: 2024 Month: 2 Day: 11
+Premium for this policy is: $1890.0
+
+Policy Holder is: Matt, PolicyID is: 3000001, Car type is: Car Type: SED, Model: Kia, Manufacturing Year: 2021, Car Price: $59000.0, Comment on this policy is: Tests the filter array, Number of claims: 0, Expiry Date: Expiry Year: 2023 Month: 12 Day: 31
+Premium for this policy is: $1780.0
+
+Policy Holder is: Philip, PolicyID is: 3773079, Car type is: Car Type: SED, Model: MG, Manufacturing Year: 2021, Car Price: $15000.0, Comment on this policy is: Tests the filter array, Number of claims: 0, Expiry Date: Expiry Year: 2024 Month: 10 Day: 14
+Premium for this policy is: $900.0
+
+Policy Holder is: New Policy, PolicyID is: 3244883, Car type is: Car Type: LUX, Model: Polestar, Manufacturing Year: 2022, Car Price: $70000.0, Comment on this policy is: This is a new Policy, Number of claims: 0, Expiry Date: Expiry Year: 2023 Month: 1 Day: 21
+Premium for this policy is: $2000.0
+
+Policy Holder is: Newest Policy, PolicyID is: 3225827, Car type is: Car Type: LUX, Model: Cupra, Manufacturing Year: 2022, Car Price: $100000.0, Comment on this policy is: This is another new policy, Number of claims: 1, Expiry Date: Expiry Year: 2024 Month: 5 Day: 15
+Premium for this policy is: $2800.0
+
+Policy Holder is: Matt, PolicyID is: 3519591, Car type is: Car Type: SED, Model: Kia, Manufacturing Year: 2021, Car Price: $43000.0, Comment on this policy is: Tests the filter array, Number of claims: 0, Expiry Date: Expiry Year: 2023 Month: 12 Day: 31
+Premium for this policy is: $1460.0
+
+
+Enter anything to continue....

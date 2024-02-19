@@ -1,0 +1,10 @@
+CP,James,3748749,Tesla,2020,69000.0,SUV,0,2024,5,21,19,1
+TPP,Jack,3069658,Toyota,2018,4569.0,HATCH,1,2025,9,24,This is policy2
+CP,Jill,3238950,Polestar,2023,110000.0,LUX,1,2023,6,31,40,5
+TPP,Sam,3063670,Polestar,2021,59000.0,SED,0,2022,12,31,This is just a duplicate thing
+TPP,Matt,3053847,Kia,2021,43000.0,SED,0,2023,12,31,Tests the filter array
+TPP,Philip,3372521,MG,2021,15000.0,SED,0,2024,10,14,Tests the filter array
+TPP,Matt,3000001,Kia,2021,59000.0,SED,0,2023,12,31,Tests the filter array
+CP,Another New Policy,3533000,Honda,2009,7000.0,HATCH,3,2024,2,11,19,1
+TPP,New Policy,3072432,Polestar,2022,70000.0,LUX,0,2023,1,21,This is a new Policy
+TPP,Newest Policy,3908468,Cupra,2022,100000.0,LUX,1,2024,5,15,This is another new policy

@@ -1,0 +1,3 @@
+SE,ID1,Antonio,1,Good Rd,Keiraville,Wollongong,NSW,Australia,23000.0
+SE,ID2,Intan,20,Rama Rd,Jimbaran,Badung,Bali,Indonesia,90000.0
+CE,ID3,Koko,15,Kresna Rd,Nusa Dua,Badung,Bali,Indonesia,15.0,30.0

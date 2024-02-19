@@ -1,0 +1,14 @@
+InsuranceCompany,Matthew,Admin,Admin,600
+User,Ben,1,1,First Street,Cool suburb,Cooler city
+Policy,TPP,Sam,3680281,Polestar,2021,59000.0,SED,0,2022,12,31,This is just a duplicate thing,1
+Policy,CP,James,3494199,Tesla,2020,69000.0,SUV,0,2024,5,21,19,1,1
+Policy,CP,Another New Policy,3157315,Honda,2009,7000.0,HATCH,3,2024,2,11,19,1,1
+Policy,TPP,Matt,3000001,Kia,2021,59000.0,SED,0,2023,12,31,Tests the filter array,1
+Policy,TPP,Jack,3728294,Toyota,2018,4569.0,HATCH,1,2025,9,24,This is policy2,1
+Policy,CP,Jill,3084016,Polestar,2023,110000.0,LUX,1,2023,6,31,40,5,1
+User,Adam,2,2,Second Street,Second Suburb,Second City
+Policy,TPP,Philip,3645392,MG,2021,15000.0,SED,0,2024,10,14,Tests the filter array,2
+User,Jack,3,3,Third Street,Third Suburb,Third City
+Policy,TPP,Matt,3933488,Kia,2021,43000.0,SED,0,2023,12,31,Tests the filter array,3
+Policy,TPP,New Policy,3620042,Polestar,2022,70000.0,LUX,0,2023,1,21,This is a new Policy,3
+Policy,TPP,Newest Policy,3315597,Cupra,2022,100000.0,LUX,1,2024,5,15,This is another new policy,3

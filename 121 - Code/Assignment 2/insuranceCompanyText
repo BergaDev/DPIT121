@@ -1,0 +1,19 @@
+InsuranceCompany,Matthew,Admin,Admin,100
+User,Sara,1,1,First Street,Cool suburb,Wollongong,SarasName,SarasPassword
+Policy,TPP,Jack And,3474723,Toyota Camry,2018,40000.0,HATCH,0,2025,9,24,This is policy2,1
+Policy,CP,James Dean,3823949,Toyota Camry,2020,5000.0,SUV,0,2024,5,21,19,1,1
+Policy,TPP,Jill And,3988597,Toyota Camry,2018,20000.0,HATCH,0,2025,9,24,This is policy2,1
+Policy,CP,Santa Month,3204187,Nissan Dualis,2020,45000.0,LUX,0,2024,5,21,35,1,1
+User,John,2,2,Second Street,Second Suburb,Wollongong,JohnsName,JohnsPassword
+Policy,TPP,Policy One,3962813,Nissan Dualis,2022,40000.0,LUX,0,2023,1,21,This is a new Policy,2
+Policy,TPP,Policy Four,3966400,Ford Ranger,2022,190000.0,LUX,0,2023,1,21,This is a new Policy,2
+Policy,TPP,Policy Two,3316607,Toyota Camry,2022,100.0,LUX,0,2023,1,21,This is a new Policy,2
+Policy,TPP,Policy Three,3875589,Nissan Dualis,2022,90000.0,LUX,0,2023,1,21,This is a new Policy,2
+User,Robert,3,3,Third Street,Third Suburb,Sydney,RobertsName,RobertsPassword
+Policy,TPP,Policy Two,3730699,Nissan Dualis,2022,5000.0,LUX,0,2023,1,21,This is a new Policy,3
+Policy,TPP,Policy One,3533538,Ford Ranger,2022,5000.0,LUX,0,2023,1,21,This is a new Policy,3
+Policy,TPP,Policy Three,3359819,Toyota Camry,2022,490000.0,LUX,0,2023,1,21,This is a new Policy,3
+Policy,TPP,Policy Four,3856192,Porsche Cayenne,2022,30000.0,LUX,0,2023,1,21,This is a new Policy,3
+User,Alex,4,4,Fourth Street,Fourth Suburb,Melbourne,AlexsName,AlexsPassword
+Policy,TPP,Policy One,3480557,Ferrari 488,2022,40000.0,LUX,0,2023,1,21,This is a new Policy,4
+Policy,TPP,Policy Two,3057237,Nissan Dualis,2022,5000.0,LUX,0,2023,1,21,This is a new Policy,4

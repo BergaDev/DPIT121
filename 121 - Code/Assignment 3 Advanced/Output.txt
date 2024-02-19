@@ -1,0 +1,132 @@
+Program Options
+1) Test Code
+2) Create User
+3) Create Third Party Policy
+4) Create Comprehensive Policy
+5) Print User Information
+6) Filter By Car Model
+7) Filter By Expiry Date
+8) Update Address
+9) Swap to user menu
+10) Report Payment per city
+11) Report payments per car model
+12) Remove policy from a user
+13) Change admin password
+14) Remove user
+15) Report payments per city - Hash
+16) Report payments per car model - Hash
+17) Save and load data
+18) SQL Database save
+19) SQL Database load
+20) Exit Program
+
+Enter an option: 18
+[1, 2, 3, 4]
+UserID is: 1
+Data for UserID 1 inserted successfully.
+UserID is: 2
+Data for UserID 2 inserted successfully.
+UserID is: 3
+Data for UserID 3 inserted successfully.
+UserID is: 4
+Data for UserID 4 inserted successfully.
+Data for policyID 3400931 (CP) inserted successfully.
+Data for policyID 3015163 (TPP) inserted successfully.
+Data for policyID 3105959 (TPP) inserted successfully.
+Data for policyID 3895895 (CP) inserted successfully.
+Data for policyID 3995688 (TPP) inserted successfully.
+Data for policyID 3849199 (TPP) inserted successfully.
+Data for policyID 3245703 (TPP) inserted successfully.
+Data for policyID 3776791 (TPP) inserted successfully.
+Data for policyID 3684703 (TPP) inserted successfully.
+Data for policyID 3031814 (TPP) inserted successfully.
+Data for policyID 3128835 (TPP) inserted successfully.
+Data for policyID 3224285 (TPP) inserted successfully.
+Data for policyID 3501652 (TPP) inserted successfully.
+Data for policyID 3974842 (TPP) inserted successfully.
+Table created successfully.
+
+Enter anything to continue....
+
+
+Assignment Program Main Menu
+
+Program Options
+1) Test Code
+2) Create User
+3) Create Third Party Policy
+4) Create Comprehensive Policy
+5) Print User Information
+6) Filter By Car Model
+7) Filter By Expiry Date
+8) Update Address
+9) Swap to user menu
+10) Report Payment per city
+11) Report payments per car model
+12) Remove policy from a user
+13) Change admin password
+14) Remove user
+15) Report payments per city - Hash
+16) Report payments per car model - Hash
+17) Save and load data
+18) SQL Database save
+19) SQL Database load
+20) Exit Program
+
+Enter an option: 19
+User and policies removed
+User and policies removed
+User and policies removed
+User and policies removed
+User here?
+User added to users hash
+User here?
+User added to users hash
+User here?
+User added to users hash
+User here?
+User added to users hash
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+Added policy to user
+
+Has been added
+
+Enter anything to continue....

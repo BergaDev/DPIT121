@@ -1,0 +1,37 @@
+Enter an option: 18
+All policies size: 14
+Part A/B
+Policy Holder is: Santa Month, PolicyID is: 3168578, Car type is: Car Type: LUX, Model: Nissan Dualis, Manufacturing Year: 2020, Car Price: $45000.0, Driver age is: 35, Level of policy is: 1, Expiry Date is: Expiry Year: 2024 Month: 5 Day: 21
+Premium for this policy is: $1000.0
+
+
+Part C
+Policy Holder Name: Jack And ID number: 3335591 Car Car Type: HATCH, Model: Toyota Camry, Manufacturing Year: 2018, Car Price: $40000.0 Number of Claims: 0 Expiry Date: Expiry Year: 2025 Month: 9 Day: 24Policy Holder is: Jack And, PolicyID is: 3335591, Car type is: Car Type: HATCH, Model: Toyota Camry, Manufacturing Year: 2018, Car Price: $40000.0, Comment on this policy is: This is policy2, Number of claims: 0, Expiry Date: Expiry Year: 2025 Month: 9 Day: 24
+
+Part D
+Policy Holder is: Jack And, PolicyID is: 3335591, Car type is: Car Type: HATCH, Model: Toyota Camry, Manufacturing Year: 2018, Car Price: $40000.0, Comment on this policy is: This is policy2, Number of claims: 0, Expiry Date: Expiry Year: 2025 Month: 9 Day: 24
+Premium for this policy is: $500.0
+
+Policy Holder is: Jill And, PolicyID is: 3837947, Car type is: Car Type: HATCH, Model: Toyota Camry, Manufacturing Year: 2018, Car Price: $20000.0, Comment on this policy is: This is policy2, Number of claims: 0, Expiry Date: Expiry Year: 2025 Month: 9 Day: 24
+Premium for this policy is: $300.0
+
+Policy Holder is: Policy One, PolicyID is: 3494751, Car type is: Car Type: LUX, Model: Nissan Dualis, Manufacturing Year: 2022, Car Price: $40000.0, Comment on this policy is: This is a new Policy, Number of claims: 0, Expiry Date: Expiry Year: 2023 Month: 1 Day: 21
+Premium for this policy is: $500.0
+
+Policy Holder is: Policy Four, PolicyID is: 3136963, Car type is: Car Type: LUX, Model: Porsche Cayenne, Manufacturing Year: 2022, Car Price: $30000.0, Comment on this policy is: This is a new Policy, Number of claims: 0, Expiry Date: Expiry Year: 2023 Month: 1 Day: 21
+Premium for this policy is: $400.0
+
+Policy Holder is: Policy One, PolicyID is: 3650900, Car type is: Car Type: LUX, Model: Ferrari 488, Manufacturing Year: 2022, Car Price: $40000.0, Comment on this policy is: This is a new Policy, Number of claims: 0, Expiry Date: Expiry Year: 2023 Month: 1 Day: 21
+Premium for this policy is: $500.0
+
+
+Part E
+Sum of policies between 200 and 500: $2200.0
+
+Part F
+
+Part G
+
+Part H
+
+Enter anything to continue.

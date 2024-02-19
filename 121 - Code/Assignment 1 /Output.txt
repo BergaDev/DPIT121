@@ -1,0 +1,134 @@
+1) Admin Login
+2) User Login
+
+Choose an Option: Admin
+error in Input : java.util.InputMismatchException
+Please enter the value again
+
+1) Admin Login
+2) User Login
+
+Choose an Option: 1 
+Admin Login
+
+Enter Admin UserName: Admin
+
+Enter Admin Password: Admin
+Assignment Program Main Menu
+
+Program Options
+1) Test Code
+2) Create User
+3) Create Third Party Policy
+4) Create Comprehensive Policy
+5) Print User Information
+6) Filter By Car Model
+7) Filter By Expiry Date
+8) Update Address
+9) Swap to user menu
+10) Report Payment per city
+11) Report payments per car model
+12) Remove policy from a user
+13) Change admin password
+14) Remove user
+15) Exit Program
+
+Enter an option: 1
+Creating first policies
+Login Successful
+
+!!User doesn't exist, adding to array!!
+
+!!User doesn't exist, adding to array!!
+
+!!User doesn't exist, adding to array!!
+
+
+Creating new policies and adding to user
+!!  An existing policy has not been found  !!
+Added policy to user
+
+
+!!  An existing policy has not been found  !!
+Added policy to user
+
+!!  An existing policy has not been found  !!
+Added policy to user
+
+
+!!  An existing policy has not been found  !!
+Added policy to user
+
+!!  An existing policy has not been found  !!
+Added policy to user
+
+!!  An existing policy has not been found  !!
+Added policy to user
+
+!!  An existing policy has not been found  !!
+Added policy to user
+
+
+!!  An existing policy has not been found  !!
+Added policy to user
+
+!!  An existing policy has not been found  !!
+Added policy to user
+
+!!  An existing policy has not been found  !!
+Added policy to user
+
+
+Adding to user that doesn't exist
+!! User does not exist !!
+
+
+Adding duplicate policy
+Policy Holder is: Matt, PolicyID is: 8, Car type is: Car Type: SED, Model: Kia, Manufacturing Year: 2021, Car Price: $43000.0, Comment on this policy is: Tests the filter array, Number of claims: 0, Expiry Date: Expiry Year: 2023 Month: 12 Day: 31
+!! A policy by this ID already exists !!
+
+
+Filter policies a user holds by ExpiryDate
+Policy Holder is: Matt, PolicyID is: 4, Car type is: Car Type: SED, Model: Kia, Manufacturing Year: 2021, Car Price: $59000.0, Comment on this policy is: Tests the filter array, Number of claims: 0, Expiry Date: Expiry Year: 2023 Month: 12 Day: 31
+
+
+Filter all policies by car model
+Policy Holder is: James, PolicyID is: 1, Car type is: Car Type: SUV, Model: Tesla, Manufacturing Year: 2020, Car Price: $69000.0, Driver age is: 19, Level of policy is: 1, Expiry Date is: Expiry Year: 2024 Month: 5 Day: 21
+
+
+Filter all policies by expiryDate
+Policy Holder is: James, PolicyID is: 1, Car type is: Car Type: SUV, Model: Tesla, Manufacturing Year: 2020, Car Price: $69000.0, Driver age is: 19, Level of policy is: 1, Expiry Date is: Expiry Year: 2024 Month: 5 Day: 21
+
+Policy Holder is: Jill, PolicyID is: 3, Car type is: Car Type: LUX, Model: Polestar, Manufacturing Year: 2023, Car Price: $110000.0, Driver age is: 40, Level of policy is: 5, Expiry Date is: Expiry Year: 2023 Month: 6 Day: 31
+
+Policy Holder is: Sam, PolicyID is: 4, Car type is: Car Type: SED, Model: Polestar, Manufacturing Year: 2021, Car Price: $59000.0, Comment on this policy is: This is just a duplicate thing, Number of claims: 0, Expiry Date: Expiry Year: 2022 Month: 12 Day: 31
+
+Policy Holder is: Another New Policy, PolicyID is: 5, Car type is: Car Type: HATCH, Model: Honda, Manufacturing Year: 2009, Car Price: $7000.0, Driver age is: 19, Level of policy is: 1, Expiry Date is: Expiry Year: 2024 Month: 2 Day: 11
+
+
+Find user by userID and change address information
+Name: User 2 ID of user: 2
+Users address: Street Number: 100, Street Name: Changed Street, Suburb: Changed Suburb, City: Changed City
+
+Now running Distinct city names
+Cooler city , Changed City , Third City , 
+This is the total for Cooler city: $2530.0
+
+Here is the results per city: [2530.0, 1780.0, 2000.0]
+
+City Name           Total Monthly Payment
+Cooler city         2530.0              
+Changed City        1780.0              
+Third City          2000.0              
+
+Distinct car models [Kia, Toyota, Tesla, Polestar, MG, Cupra, Honda]
+Distinct models for user 1 [Toyota, Tesla, Polestar, Honda]
+The user with ID: 12, Has been removed
+null
+Car Model           Total Premium Payment         Average Premium Payment
+Kia                 3240.0                        1620.0              
+Polestar            2000.0                        2000.0              
+MG                  900.0                         900.0               
+Cupra               2800.0                        2800.0              
+
+Enter anything to continue....
